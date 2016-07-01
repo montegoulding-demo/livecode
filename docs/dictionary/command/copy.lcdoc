@@ -2,7 +2,7 @@ Name: copy
 
 Type: command
 
-Syntax: copy [<object> [to {<card> | group | stack} ]] | [<chunk> of <field>]
+Syntax: copy [{ <object> [to {<card> | group | stack} ] | <chunk> of <field> }]
 
 Summary: Copies <selected> text or an <object(glossary)> to the <clipboard> or to a <card>, <group>, or <stack>.
 
